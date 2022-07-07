@@ -9,6 +9,7 @@ This is a Telegram Bot written in Python for mirroring files on the Internet to 
 - ENGINES
 - DECORATIONS
 - APPDRIVE,HUBDRIVE,KOLOP,DRIVEBUZZ,DRIVEHUB,.....etc., Features That I can't Remember.Check In Config.env
+- Stable Refresh, Stats and close buttons
 ## By Anas
 - qBittorrent
 - Select files from Torrent before downloading using qbittorrent
