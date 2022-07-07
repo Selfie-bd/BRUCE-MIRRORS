@@ -2,8 +2,14 @@ This is a Telegram Bot written in Python for mirroring files on the Internet to 
 
 # Features:
 
-## By [Anas](https://github.com/anasty17)
 ## Modified By BRUCE & AHAD
+-BOT PM
+-LOGS CHANNEL
+-ELAPSED TIME
+-ENGINES
+-DECORATIONS
+APPDRIVE,HUBDRIVE,KOLOP,DRIVEBUZZ,DRIVEHUB,.....etc., Features That I can't Remember.Check In Config.env
+## By Anas
 - qBittorrent
 - Select files from Torrent before downloading using qbittorrent
 - Leech (splitting, thumbnail for each user, setting as document or as media for each user)
